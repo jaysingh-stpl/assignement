@@ -1,0 +1,6 @@
+
+export const CREATE_TCIKET = 'CREATE_TCIKET'
+export const UPDATE_TICKET = 'UPDATE_TICKET'
+export const DELETE_TICKET = 'DELETE_TICKET'
+export const VALIDATE_TICKET = 'VALIDATE_TICKET'
+
